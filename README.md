@@ -16,9 +16,7 @@
 
 ### 5x12 ortholinear keyboard switch plate for use with Alps switches.
 * Inspired by the layout of the AMJ-40 keyboard, with an additional row for number keys.
-
 * Kit works really well with an AEK-II, you can achieve a decent hacked together profile as pictured at the top.
-
 * Bottom row intended to have a 2.75u spacebar and an adjacent 1.25u 3rd layer key.
 * Spacerbar stabilizer mounting holes are designed for Alps OEM stabilizer not Cherry MX style stabs.
     * The spacebar can be mounted flipped, or normally.

@@ -10,15 +10,15 @@ F6 : r4 : blu
 
 Pins: column # : wire color
 ===========================
-F7 : c0 : wht
-B6 : c1 : yel
-B5 : c2 : red
-B4 : c3 : grn
-D7 : c4 : blu
-C7 : c5 : blk
-C6 : c6 : blk
-D3 : c7 : blu
-D2 : c8 : grn
-D1 : c9 : red
-D0 : c10 : yel
-B7 : c11 : wht
+B7 : c0 : wht
+D0 : c1 : yel
+D1 : c2 : red
+D2 : c3 : grn
+D3 : c4 : blu
+C6 : c5 : blk
+C7 : c6 : blk
+D7 : c7 : blu
+B4 : c8 : grn
+B5 : c9 : red
+B6 : c10 : yel
+F7 : c11 : wht

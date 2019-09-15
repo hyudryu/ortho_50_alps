@@ -5,6 +5,9 @@
 #### Sample Layout:
 ![alt text](https://i.imgur.com/KS6zdEy.jpg)
 
+#### Wiring Example:
+![alt text](https://i.redd.it/es84vejjdnm31.jpg)
+
 #### Switch Plate:
 ![alt text](https://i.imgur.com/tT11VKq.jpg)
 

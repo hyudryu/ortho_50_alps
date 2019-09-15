@@ -35,9 +35,7 @@
 * Switch fitment is very tight when the plate is 3D printed at 2mm thickness. Trimming was definitely required in my case.
 * Zero fitment guarantee, in fact, I guarantee you will have to fine tune the fit if printing.
 * STL files may be misoriented for printing, thoroughly inspect files before continuing to print.
+* Default firmware does not include any LED configuration.
 
-
-### To-do:
-* Default amj-40 style keymap will be added once I finish handwiring the prototype.
 
 ###### Model was created in Solidworks, then exported as STL/DXF. Feel free to use/modify/redistribute.

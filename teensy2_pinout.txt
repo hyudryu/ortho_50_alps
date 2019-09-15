@@ -1,0 +1,24 @@
+Using ATmega 32U4 controller:
+
+Pins: row # : wire color
+========================
+F0 : r0 : wht
+F1 : r1 : yel
+F4 : r2 : red
+F5 : r3 : grn
+F6 : r4 : blu
+
+Pins: column # : wire color
+===========================
+F7 : c0 : wht
+B6 : c1 : yel
+B5 : c2 : red
+B4 : c3 : grn
+D7 : c4 : blu
+C7 : c5 : blk
+C6 : c6 : blk
+D3 : c7 : blu
+D2 : c8 : grn
+D1 : c9 : red
+D0 : c10 : yel
+B7 : c11 : wht

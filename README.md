@@ -1,4 +1,4 @@
-## Ortholinear 50% Alps Switch Case and Plate
+## Ortholinear 50% Keyboard: Alps Switch Plate and Case
 
 ![alt text](https://i.imgur.com/Q3JMwZK.jpg)
 
